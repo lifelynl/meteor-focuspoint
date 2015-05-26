@@ -1,0 +1,1 @@
+Focuspoint = window.Focuspoint;
