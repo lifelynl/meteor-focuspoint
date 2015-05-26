@@ -1,0 +1,17 @@
+{
+  "name": "meteor-focuspoint",
+  "version": "1.0.0",
+  "authors": [
+    "Jesse de Vries <jessedvrs@gmail.com>"
+  ],
+  "description": "A beautiful library which deals with the problem of ugly cropped images.",
+  "keywords": [
+    "meteor",
+    "focuspoint",
+    "lifely"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "focuspoint": "*"
+  }
+}
