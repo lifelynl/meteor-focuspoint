@@ -1,7 +1,7 @@
 Package.describe({
     name: "lifely:focuspoint",
     summary: "A beautiful library which deals with the problem of ugly cropped images.",
-    version: "1.0.0",
+    version: "1.0.1",
     git: "https://github.com/lifelynl/meteor-focuspoint.git"
 });
 
