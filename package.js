@@ -2,7 +2,7 @@ Package.describe({
     name: "lifely:focuspoint",
     summary: "A beautiful library which deals with the problem of ugly cropped images.",
     version: "1.0.0",
-    git: "https://github.com/lifely/meteor-focuspoint.git"
+    git: "https://github.com/lifelynl/meteor-focuspoint.git"
 });
 
 Package.onUse(function(api) {
@@ -12,7 +12,7 @@ Package.onUse(function(api) {
         'bower_components/focuspoint/dist/focuspoint.min.js',
         'bower_components/focuspoint/dist/focuspoint.min.css'
     ], 'client');
-    api.export('Focuspoint');
+    api.export('Focuspoint', 'client');
 });
 
 Package.onTest(function(api) {
