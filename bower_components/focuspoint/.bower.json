@@ -27,11 +27,11 @@
     "requestAnimationFrame": "~0.0.22"
   },
   "homepage": "https://github.com/lifelynl/focuspoint",
-  "_release": "5fdd8d2ddc",
+  "_release": "e4f2f91dd3",
   "_resolution": {
     "type": "branch",
     "branch": "master",
-    "commit": "5fdd8d2ddc84d92b93d5cbc0deafefb45e814614"
+    "commit": "e4f2f91dd3d81b5a90aa516f5fb9c4fb44bdefc8"
   },
   "_source": "git://github.com/lifelynl/focuspoint.git",
   "_target": "*",
