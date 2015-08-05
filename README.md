@@ -1,6 +1,6 @@
 A meteor package for [Focuspoint](https://github.com/lifelynl/focuspoint).
 
-Using Focuspoint v1.0.0
+Using Focuspoint v1.0.1
 
 
 ## Usage
