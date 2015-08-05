@@ -6,7 +6,7 @@ Using Focuspoint v1.0.0
 ## Usage
 
 ```
-meteor add lifely:focuspoint
+meteor add lifelynl:focuspoint
 ```
 
 `Focuspoint` is defined if used in a package.
