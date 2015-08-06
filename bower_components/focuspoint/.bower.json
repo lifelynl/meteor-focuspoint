@@ -1,6 +1,6 @@
 {
   "name": "lifely-focuspoint",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A beautiful library which deals with the problem of ugly cropped images.",
   "authors": [
     "Lifely <info@lifely.nl>",
@@ -28,11 +28,11 @@
     "requestAnimationFrame": "~0.0.22"
   },
   "homepage": "https://github.com/lifelynl/focuspoint",
-  "_release": "1.0.3",
+  "_release": "1.0.4",
   "_resolution": {
     "type": "version",
-    "tag": "1.0.3",
-    "commit": "689ae5fb623da6143337a932c339564c2cb88839"
+    "tag": "1.0.4",
+    "commit": "cab0e679f958c710ca3dfbda2c0eb227ea1f1c20"
   },
   "_source": "git://github.com/lifelynl/focuspoint.git",
   "_target": "*",
